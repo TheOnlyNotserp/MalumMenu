@@ -1,5 +1,136 @@
 # 📋 Features
 
+## 🚀 Enhanced Features
+
+### Player Enhancements
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Fly Mode | Allows you to fly around the map using WASD keys | Toggle | Off |
+| Infinite Stamina | Never run out of stamina while moving | Toggle | Off |
+| Auto Run | Automatically moves your character around the map | Toggle | Off |
+| Wall Hack | Makes walls semi-transparent to see through them | Toggle | Off |
+| Anti Kick | Prevents you from being kicked from games | Toggle | Off |
+| God Mode | Makes you invulnerable to death | Toggle | Off |
+
+### Advanced ESP
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| X-Ray Vision | See all objects through walls | Toggle | Off |
+| Player ESP | Shows boxes around all players | Toggle | Off |
+| Task ESP | Highlights all incomplete tasks | Toggle | Off |
+| Vent ESP | Shows all vents on the map | Toggle | Off |
+| Door ESP | Highlights all doors (green=open, red=closed) | Toggle | Off |
+| Item ESP | Shows all interactable items | Toggle | Off |
+| Show Distance | Displays distance to all players | Toggle | Off |
+| Show Health | Shows alive/dead status above players | Toggle | Off |
+| Show Stats | Displays task completion stats for players | Toggle | Off |
+
+### Enhanced Camera
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Night Vision | Increases visibility in dark areas | Toggle | Off |
+| Thermal Vision | Shows players in thermal colors | Toggle | Off |
+| Camera Shake | Adds camera shake effects | Toggle | Off |
+| Smooth Camera | Smooths camera movement | Toggle | Off |
+
+### Advanced Roles
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Auto Complete Tasks | Automatically completes tasks when near them | Toggle | Off |
+| Instant Kill | Kills targets instantly without animation | Toggle | Off |
+| Kill Through Walls | Allows killing players through walls | Toggle | Off |
+| Multi Kill | Kill multiple players simultaneously | Toggle | Off |
+
+### Enhanced Chat
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Spam Chat | Automatically sends spam messages | Toggle | Off |
+| Auto Chat | Sends messages automatically | Toggle | Off |
+| Chat Bot | Responds to other players automatically | Toggle | Off |
+| Colored Chat | Sends messages in different colors | Toggle | Off |
+| Big Text | Makes your chat text larger | Toggle | Off |
+| Invisible Text | Makes your text nearly invisible | Toggle | Off |
+
+### Meeting Controls
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Auto Vote | Automatically votes in meetings | Toggle | Off |
+| Vote Anyone | Vote for any player regardless of rules | Toggle | Off |
+| Skip Vote | Automatically skips voting | Toggle | Off |
+| Force Vote | Forces a specific vote outcome | Toggle | Off |
+| Meeting Spam | Spams the meeting chat | Toggle | Off |
+| Instant Meeting | Calls emergency meetings instantly | Toggle | Off |
+| Prevent Meeting | Prevents others from calling meetings | Toggle | Off |
+
+### Game Control
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Force Start | Forces the game to start | Toggle | Off |
+| Force End | Forces the game to end | Toggle | Off |
+| Change Settings | Modify game settings mid-game | Toggle | Off |
+| Kick Players | Kick other players from the game | Toggle | Off |
+| Ban Players | Ban players from the lobby | Toggle | Off |
+| Control Host | Take control of host privileges | Toggle | Off |
+| Game Speed | Control the speed of the game (Shift=fast, Ctrl=slow) | Toggle | Off |
+| Time Control | Control time flow in the game | Toggle | Off |
+
+### Visual Effects
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Custom Colors | Use custom player colors | Toggle | Off |
+| Rainbow Mode | Makes your player cycle through rainbow colors | Toggle | Off |
+| Glow Effect | Adds a glowing outline to your player | Toggle | Off |
+| Trail Effect | Leaves a trail behind your player | Toggle | Off |
+| Particle Effects | Adds particle effects around your player | Toggle | Off |
+| Custom Skins | Use custom player skins | Toggle | Off |
+| Big Player | Makes your player larger | Toggle | Off |
+| Small Player | Makes your player smaller | Toggle | Off |
+| Invisible Player | Makes your player semi-transparent | Toggle | Off |
+
+### Audio Controls
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Mute All | Mutes all game sounds | Toggle | Off |
+| Custom Sounds | Use custom sound effects | Toggle | Off |
+| Sound Spam | Plays sounds repeatedly | Toggle | Off |
+| Voice Changer | Changes your voice in voice chat | Toggle | Off |
+| Music Player | Plays custom music | Toggle | Off |
+
+### Network Controls
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Lag Switch | Temporarily lag your connection | Toggle | Off |
+| Packet Loss | Simulate packet loss | Toggle | Off |
+| Ping Spoof | Fake your ping display | Toggle | Off |
+| Region Spoof | Fake your region/location | Toggle | Off |
+| Server Control | Control server-side functions | Toggle | Off |
+
+### Automation
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Auto Play | Automatically plays the game for you | Toggle | Off |
+| Bot Mode | Enables full bot behavior | Toggle | Off |
+| AI Assist | Provides AI assistance for optimal play | Toggle | Off |
+| Auto Win | Automatically tries to win the game | Toggle | Off |
+| Smart Play | Makes intelligent decisions based on game state | Toggle | Off |
+
+### Trolling
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Confuse Mode | Randomly moves other players slightly | Toggle | Off |
+| Chaos Mode | Creates random chaotic events | Toggle | Off |
+| Prank Mode | Enables various prank features | Toggle | Off |
+| Annoy Mode | Annoys other players with various effects | Toggle | Off |
+| Disrupt Mode | Disrupts normal gameplay | Toggle | Off |
+
+### Security
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| Anti Cheat | Protects against other cheaters | Toggle | Off |
+| Hide Cheat | Hides evidence of cheating | Toggle | Off |
+| Stealth Mode | Makes cheating less detectable | Toggle | Off |
+| Bypass Detection | Bypasses anti-cheat systems | Toggle | Off |
+
 ## 👱 Player
 
 | Cheat | Description | Type | Default|
