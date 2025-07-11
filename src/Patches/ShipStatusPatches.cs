@@ -13,5 +13,12 @@ public static class ShipStatus_FixedUpdate
         MalumCheats.kickVentsCheat();
 
         MalumPPMCheats.reportBodyPPM();
+
+        // Automation cheats
+        AutomationCheats.autoPlayCheat();
+        AutomationCheats.botModeCheat();
+        AutomationCheats.aiAssistCheat();
+        AutomationCheats.autoWinCheat();
+        AutomationCheats.smartPlayCheat();
     }
 }
