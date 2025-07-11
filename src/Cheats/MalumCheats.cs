@@ -314,4 +314,30 @@ public static class MalumCheats
         catch{}
     }
 
+        // Enhanced cheats
+        EnhancedCheats.flyModeCheat();
+        EnhancedCheats.infiniteStaminaCheat();
+        EnhancedCheats.autoRunCheat();
+        EnhancedCheats.wallHackCheat();
+        EnhancedCheats.godModeCheat();
+        EnhancedCheats.xrayVisionCheat();
+        EnhancedCheats.nightVisionCheat();
+        EnhancedCheats.thermalVisionCheat();
+        EnhancedCheats.rainbowModeCheat();
+        EnhancedCheats.glowEffectCheat();
+        EnhancedCheats.trailEffectCheat();
+        EnhancedCheats.bigPlayerCheat();
+        EnhancedCheats.smallPlayerCheat();
+        EnhancedCheats.invisiblePlayerCheat();
+        EnhancedCheats.autoCompleteTaskCheat();
+        EnhancedCheats.spamChatCheat();
+        EnhancedCheats.chatBotCheat();
+        EnhancedCheats.autoVoteCheat();
+        EnhancedCheats.gameSpeedCheat();
+        EnhancedCheats.confuseModeCheat();
+        EnhancedCheats.stealthModeCheat();
+        EnhancedCheats.resetPlayerScale();
+        EnhancedCheats.resetPlayerVisibility();
+        EnhancedCheats.resetTimeScale();
+
 }

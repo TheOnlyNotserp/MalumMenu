@@ -35,6 +35,15 @@ public static class PlayerPhysics_LateUpdate
 
         TracersHandler.drawPlayerTracer(__instance);
 
+        // Advanced ESP features
+        AdvancedESP.playerESPCheat();
+        AdvancedESP.taskESPCheat();
+        AdvancedESP.ventESPCheat();
+        AdvancedESP.doorESPCheat();
+        AdvancedESP.showPlayerDistanceCheat();
+        AdvancedESP.showPlayerHealthCheat();
+        AdvancedESP.showPlayerStatsCheat();
+
         GameObject[] bodyObjects = GameObject.FindGameObjectsWithTag("DeadBody");
         foreach(GameObject bodyObject in bodyObjects) // Finds and loops through all dead bodies
         {
